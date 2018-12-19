@@ -2,12 +2,12 @@
 
 Sample code for a discussion on 
 
-####Reactive programming
+#### Reactive programming
 
 >In a nutshell reactive programming is about non-blocking, event-driven applications that scale with a small number of threads with backpressure as a key ingredient that aims to ensure producers do not overwhelm consumers. 
 
 
-####Optimal # of Threads
+#### Optimal # of Threads
 
 CPU Intensive Code 
 ``` bash
